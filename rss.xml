@@ -4,8 +4,15 @@
         <description><![CDATA[Austin Fathman]]></description>
         <link>http://www.austinfathman.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 19:58:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 20:05:39 GMT</lastBuildDate>
         <atom:link href="http://www.austinfathman.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello! ]]></title>
+            <description><![CDATA[<article><h1>Hello! </h1><h2>This site is under construction. In the meantime, here's a bit about me.</h2><p>My name is Austin Fathman. I'm primarily a mobile developer who has strong interests in IoT, machine learning and computer vision. My primary platform is Android, however ​I also have done a few projects on iOS.</p></article>]]></description>
+            <link>http://www.austinfathman.com/hello/index.html</link>
+            <guid isPermaLink="false">f6123e45-e712-4e43-aae0-5486a48551d4</guid>
+            <pubDate>Mon, 15 Feb 2016 20:05:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Profiles]]></title>
             <description><![CDATA[<article><h1>Profiles</h1><p>https://www.linkedin.com/in/austinfathman</p></article>]]></description>
