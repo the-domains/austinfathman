@@ -1,4 +1,4 @@
-name: Test
+name: Austin Fathman
 favicon: null
 layout_spectrum: 0.30251
 typography_spectrum: 1
@@ -8,7 +8,7 @@ cta:
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-73829514-1
   facebook: null
   twitter: null
 opengraph:
