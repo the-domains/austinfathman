@@ -1,0 +1,28 @@
+name: AustinFathman
+favicon: null
+layout_spectrum: 0.31716649141162634
+typography_spectrum: 0.5491434950381517
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.40123159624636173
+  lightness: 0.8263219527434558
+  saturation: 0.25995603506453335
+  rhythmicContrast: 0.2735450556501746
+purpose: []
