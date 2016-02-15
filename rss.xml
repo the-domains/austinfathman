@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Austin Fathman]]></title>
+        <description><![CDATA[Austin Fathman]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Feb 2016 14:42:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://linkedin.com/austinfathman</p>]]></description>
+            <link>undefined2ea76093-5f6c-4b6c-ada1-8f3fb463e887/index.html</link>
+            <guid isPermaLink="false">2ea76093-5f6c-4b6c-ada1-8f3fb463e887</guid>
+            <pubDate>Mon, 15 Feb 2016 14:41:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
